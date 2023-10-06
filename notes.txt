@@ -1,0 +1,4 @@
+clip dog
+
+a smiling cartoon dog, + clip
+sdxl txt2img
